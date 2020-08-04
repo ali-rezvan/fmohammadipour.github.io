@@ -31,15 +31,15 @@ sidebar:
       - idiom: Turkish
         level: Colloquial
 
-    interests:
-      - item: Guitar
-        link:
+    #interests:
+    #  - item: Guitar
+     #   link:
 
-      - item: Basketball
-        link:
+     # - item: Basketball
+      #  link:
 
-      - item: Biking
-        link:
+       #- item: Biking
+#        link:
 
 career-profile:
     title: Career Profile
