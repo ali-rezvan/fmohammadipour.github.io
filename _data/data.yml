@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Biagio Brattoli
-    tagline: Computer Vision and Machine Learning researcher
+    name: Fariba Mohammadi Pour
+    tagline: Computer Network Specialist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: biagio.brattoli@gmail.com
+    email: faribampr@gmail.com
     phone: 
-    website: bbrattoli.github.io/publications/ #do not add http://
-    linkedin: biagiobrattoli
-    github: bbrattoli
+    website: fmohammadipour.github.io/publications/ #do not add http://
+    linkedin: fariba-mohammadipour
+    github: fmohammadipour
     gitlab:
     bitbucket:
     twitter: '@BiagioBrattoli'
@@ -25,13 +25,16 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
+      - idiom: Persian
+        level: Native
+
       - idiom: English
         level: Fluent
 
-      - idiom: Italian
-        level: Native
-
       - idiom: German
+        level: Colloquial
+       
+      - idiom: Turkish
         level: Colloquial
 
     interests:
