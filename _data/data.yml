@@ -14,14 +14,9 @@ sidebar:
     # Sidebar links
     email: faribampr@gmail.com
     phone: 
-    website: fmohammadipour.github.io/publications/ #do not add http://
+    website: fmohammadipour.github.io/ #do not add http://
     linkedin: fariba-mohammadipour
     github: fmohammadipour
-    gitlab:
-    bitbucket:
-    twitter: '@BiagioBrattoli'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -50,9 +45,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field, under the supervision of Bjoern Ommer.
-      Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
+     Experienced Technical Support Specialist with a demonstrated history of working in the information technology and services industry.
+     Skilled in Dynamics 365, Virtualization, Storage, Customer Service, and Microsoft Windows Server.
+     Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science from Shahid Beheshti University. 
 
 news:
     title: News
@@ -97,34 +92,14 @@ news:
           title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
 education:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
+    - degree: Master Degree
+      university: Payam Noor University, Tehran, Iran
       time: 2019 - current
       details: |
      
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
-
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-    
     - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
+      university: Computer Science
+      time: 2011 - 2015
       details: |
 
 
@@ -247,44 +222,6 @@ educationcomplete:
       #- title: Delta
         #link: "#"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      
-
-    papers:
-      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
-        conference: CVPR, 2020
-        
-      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-        authors: B. Brattoli*, K. Roth*, B. Ommer
-        conference: ICCV, 2019
-
-      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-        authors: B. Brattoli*, U. Buechler*, B. Ommer
-        conference: ECCV, 2018
-
-      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-        conference: CVPR, 2017
-
-      - title: "Cross and Learn: Cross-Modal Self-Supervision"
-        authors: N. Sayer, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
-
-      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-        authors: O. Blum, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
-
-      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-        conference: "Nature Communications, 2017"
-        
-      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
     title: Skills &amp; Proficiency
