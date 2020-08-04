@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     email: faribampr@gmail.com
-    phone: 
     website: fmohammadipour.github.io/ #do not add http://
     linkedin: fariba-mohammadipour
     github: fmohammadipour
@@ -48,17 +47,6 @@ career-profile:
      Experienced Technical Support Specialist with a demonstrated history of working in the information technology and services industry.
      Skilled in Dynamics 365, Virtualization, Storage, Customer Service, and Microsoft Windows Server.
      Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science from Shahid Beheshti University. 
-
-education:
-    - degree: Master Degree
-      university: Payam Noor University, Tehran, Iran
-      time: 2019 - current
-      details: |
-     
-    - degree: Bachelor Degree
-      university: Computer Science
-      time: 2011 - 2015
-      details: |
       
 news:
     title: News
@@ -101,7 +89,17 @@ news:
         
         - time: 2017
           title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
-
+         
+education:
+    - degree: Master Degree
+      university: Payam Noor University, Tehran, Iran
+      time: 2019 - current
+      details: |
+     
+    - degree: Bachelor Degree
+      university: Computer Science
+      time: 2011 - 2015
+      details: |
 
 #experiences:
     #- role: Lead Developer
