@@ -78,10 +78,10 @@ education:
       time: 2011 - 2015
       details: |
 
-#experiences:
-    #- role: Lead Developer
-      #time: 2015 - Present
-      #company: Startup Hubs, San Francisco
+experiences:
+    - role: Information technology specialist
+      time: 2011 - Present
+      company: Ramin Ertebat, Tehran, Iran
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -95,10 +95,22 @@ education:
 
           #- Bullet point
           #- Bullet point
+    - role: Technical Support
+      time: 2014 - 2019
+      company: Rayancollege institute, Tehran, Iran
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
 
-    #- role: Senior Software Engineer
-      #time: 2014 - 2015
-      #company: Google, London
+          #- Bullet point
+          #- Bullet point
+          
+    - role: CEO
+      time: 2020 - Present
+      company: Rayancollege institute, Tehran, Iran
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -109,18 +121,7 @@ education:
           #- Bullet point
           #- Bullet point
 
-    #- role: UI Developer
-      #time: 2012 - 2014
-      #company: Amazon, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
+   
 
 #projects:
     #title: Projects
@@ -157,19 +158,6 @@ skills:
       - name: Python
         level: 100%
 
-      - name: PyTorch
-        level: 90%
 
-      - name: Tensorflow
-        level: 60%
-
-      - name: Caffe
-        level: 80%
-
-      - name: Matlab
-        level: 90%
-
-      - name: C/C++
-        level: 75%
 
 footer: >
