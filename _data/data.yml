@@ -49,7 +49,7 @@ career-profile:
      Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science from Shahid Beheshti University. 
       
 news:
-    title: News
+    title: Courses
     intro: |
         
     
@@ -66,29 +66,6 @@ news:
         - time: July 2019
           title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
           
-        - time: July 2019
-          title: One paper accepted at ICCV19
-          
-        - time: January 2019
-          title: Selected as reviewer for ICCV19
-        
-        - time: December 2018
-          title: Selected as reviewer for CVPR19
-        
-        - time: Sptember 2018
-          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
-        
-        - time: July 2018
-          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
-        
-        - time: 2018
-          title: Paper accepted as poster at ECCV18 in Munich, Germany
-        
-        - time: 2017
-          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
-        
-        - time: 2017
-          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
          
 education:
     - degree: Master Degree
