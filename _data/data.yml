@@ -49,6 +49,17 @@ career-profile:
      Skilled in Dynamics 365, Virtualization, Storage, Customer Service, and Microsoft Windows Server.
      Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science from Shahid Beheshti University. 
 
+education:
+    - degree: Master Degree
+      university: Payam Noor University, Tehran, Iran
+      time: 2019 - current
+      details: |
+     
+    - degree: Bachelor Degree
+      university: Computer Science
+      time: 2011 - 2015
+      details: |
+      
 news:
     title: News
     intro: |
@@ -90,65 +101,6 @@ news:
         
         - time: 2017
           title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
-
-education:
-    - degree: Master Degree
-      university: Payam Noor University, Tehran, Iran
-      time: 2019 - current
-      details: |
-     
-    - degree: Bachelor Degree
-      university: Computer Science
-      time: 2011 - 2015
-      details: |
-
-
-educationcomplete:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
-      details: |
-
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
-
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
-
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-          - Deep learning
-          - Hand Gesture
-
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
-
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-        Master degree in Computer Engineering
 
 
 #experiences:
