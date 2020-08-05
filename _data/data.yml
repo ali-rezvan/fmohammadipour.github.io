@@ -85,13 +85,13 @@ news:
           title: CCNA       
 
 education:
-    - degree: Master Degree
+    - degree: Master Degree - software engineering
       university: Payam Noor University, Tehran, Iran
       time: 2019 - current
       details: |
      
-    - degree: Bachelor Degree
-      university: Computer Science
+    - degree: Bachelor Degree - Computer Science
+      university: Shahid Beheshti University, Tehran, Iran
       time: 2011 - 2015
       details: |
 
