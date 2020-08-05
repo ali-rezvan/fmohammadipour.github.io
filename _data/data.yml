@@ -48,41 +48,41 @@ career-profile:
      Skilled in Dynamics 365, Virtualization, Storage, Customer Service, and Microsoft Windows Server.
      Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science from Shahid Beheshti University. 
       
-news:
-    title: Courses
-    intro: |
+#news:
+ #   title: Courses
+  #  intro: |
         
     
-    posts:
-        - time: 2012
-          title: Network+
+   # posts:
+    #    - time: 2012
+     #     title: Network+
           
-        - time: 2013
-          title: LPIC1
+      #  - time: 2013
+       #   title: LPIC1
         
-        - time: 2014
-          title: SQL Server Design and Administration
+        #- time: 2014
+         # title: SQL Server Design and Administration
           
-        - time: 2015
-          title: Microsoft Exchange 2013
+    #    - time: 2015
+     #     title: Microsoft Exchange 2013
           
-        - time: 2015
-          title: Lync Server 2013
+  #      - time: 2015
+   #       title: Lync Server 2013
           
-        - time: 2015
-          title: Kerio Control
+   #     - time: 2015
+    #      title: Kerio Control
           
-        - time: 2019
-          title: Microsoft Exchange 2019         
+    #    - time: 2019
+    #      title: Microsoft Exchange 2019         
           
-        - time: 2019
-          title: Microsoft Skype For Business 2019
+   #     - time: 2019
+    #      title: Microsoft Skype For Business 2019
          
-        - time: 2019
-          title: Microsoft Private Cloud ( Azure )        
+    #    - time: 2019
+    #      title: Microsoft Private Cloud ( Azure )        
          
-         - time: 2019
-          title: CCNA       
+    #     - time: 2019
+    #      title: CCNA       
 
 education:
     - degree: Master Degree
